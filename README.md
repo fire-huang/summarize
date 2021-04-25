@@ -13,7 +13,8 @@
 [Java历史](https://zh.wikipedia.org/wiki/Java#%E5%8E%86%E5%8F%B2)
 [版本历程](https://zh.wikipedia.org/wiki/Java#%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2)
 
-**Java的基本介绍：**Java是一种广泛使用的计算机编程语言，拥有**跨平台、面向对象、泛型编程**的特性，广泛应用于企业级Web应用开发和移动应用开发。
+**Java的基本介绍：**  
+Java是一种广泛使用的计算机编程语言，拥有**跨平台、面向对象、泛型编程**的特性，广泛应用于企业级Web应用开发和移动应用开发。
 
 **Java分为三个体系:**
 * JavaSE（J2SE)（Java2 Platform Standard Edition，java平台标准版)  
